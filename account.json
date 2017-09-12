@@ -1,0 +1,9 @@
+{
+  "details": {
+  "service":"gmail",
+  "auth": {
+    "user":"your gmail username",
+    "pass":"gmail password"
+  }
+    }
+}
